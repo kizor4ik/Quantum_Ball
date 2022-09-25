@@ -7,4 +7,4 @@ https://play.google.com/store/apps/details?id=com.NormTakSoftware.QuantumBall
 
 Королев Петр Сергеевич - главный разработчик
 
-Солонский Виктор Андреевич - программист
+Солонский Виктор Андреевич - второй главный разработчик
